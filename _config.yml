@@ -1,5 +1,5 @@
-title: Read The Docs Jekyll Theme
-description: Port of the Read the Docs theme to Jekyll to use with GitHub Pages.
+title: HyPySpectral Documentation
+description: Documentation for the HyPsySpectral Python package for Hyperspectral Image Analysis.
 remote_theme: carlosperate/jekyll-theme-rtd
 
 # Development server config, needed to load some of the content
